@@ -38,4 +38,5 @@ Sebagai tugas pertama, ini ga akan dibuat terlalu sulit. Kalian cuma perlu buat 
 1. Adi Haditya Nursyam - MS'22.
 2. Christella Cantika Putri - FTMD'23
 3. Vaskorio Beta - FTMD'23
-4. 
+4. Muhammad Rafi Wicaksana - FTI'23
+5. 

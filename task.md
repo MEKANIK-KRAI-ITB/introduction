@@ -39,4 +39,4 @@ Sebagai tugas pertama, ini ga akan dibuat terlalu sulit. Kalian cuma perlu buat 
 2. Christella Cantika Putri - FTMD'23
 3. Vaskorio Beta - FTMD'23
 4. Muhammad Rafi Wicaksana - FTI'23
-5. 
+5. Muhammad Iqbal Gunawan - FTSL'23

@@ -41,3 +41,5 @@ Sebagai tugas pertama, ini ga akan dibuat terlalu sulit. Kalian cuma perlu buat 
 4. Muhammad Rafi Wicaksana - FTI'23
 5. Muhammad Iqbal Gunawan - FTSL'23
 6. Reyhan Nugraha Akbar - FMIPA'23
+7. Ikram Khalifman Trianzani - FTMD' 23
+
